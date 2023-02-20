@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Matheus.
 
-- 🌱 Estudando HTML | CSS | JavaScript
+- 📚 Estudando HTML | CSS | JavaScript
 - 📫 Contate-me no e-mail: contatomatheusdiasmello@gmail.com
 - 😄 Pronouns: ele/dele
 <div align="center">
