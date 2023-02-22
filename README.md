@@ -2,7 +2,7 @@
 
 - 📚 Estudando HTML | CSS | JavaScript
 - 📫 Contate-me no e-mail: contatomatheusdiasmello@gmail.com
-- 😄 Pronouns: ele/dele
+
 <div align="center">
   <a href="https://github.com/mThsdias">
 </div>
