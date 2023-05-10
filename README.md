@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Matheus.
 
-- 📚 Estudando HTML | CSS | JavaScript
-- 📫 Contate-me no e-mail: contatomatheusdiasmello@gmail.com
+- 📚 Estudando HTML | CSS | JavaScript 
+- 📫 Contate-me no e-mail: contatomatheusdiasmello@gmail.com | React
 
 <div align="center">
   <a href="https://github.com/mThsdias">
