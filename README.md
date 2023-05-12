@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Matheus.
 
-- 📚 Estudando HTML | CSS | JavaScript | React
+- 📚 Estudando HTML | CSS | JavaScript | React |
 - 📫 Contate-me no e-mail: contatomatheusdiasmello@gmail.com
 
 <div align="center">
