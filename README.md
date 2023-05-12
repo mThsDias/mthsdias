@@ -2,7 +2,6 @@
 
 - 📚 Estudando HTML | CSS | JavaScript | React
 - 📫 Contate-me no e-mail: contatomatheusdiasmello@gmail.com
-- 
 
 <div align="center">
   <a href="https://github.com/mThsdias">
