@@ -37,7 +37,7 @@
 
 ### <img src="https://media2.giphy.com/media/58s31i8iRsgwKeJvGM/giphy.gif?cid=6c09b9526rdbxeg1k5bes1mxok3r1e3414i0tskf83kqnybo&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="45" /> Contato
 <p align="left">
-  <a href="https://www.linkedin.com/in/matheusdiasmello/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="apoorvtyagi" height="40" width="30" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/matheusdiasmello/" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="apoorvtyagi" height="40" width="30" /></a>&nbsp;
   <a href="http://discord.com/users/mth#7848" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/discord.svg" alt="apoorv#4040" height="40" width="30" /></a>&nbsp;
   <a href="" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="" height="40" width="30" /></a>&nbsp;
 </p>
