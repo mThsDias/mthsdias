@@ -29,8 +29,8 @@
 
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='45' /> GitHub
 <div  align="left" style="margin-bottom:100px">
-  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=radical&mode=weekly" />
-  <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=rafaelalexandrino&show_icons=true&theme=radical&layout=compact" />
+  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=mThsDias&theme=radical&mode=weekly" />
+  <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=mThsDias&show_icons=true&theme=radical&layout=compact" />
 </div>
 
 ---
